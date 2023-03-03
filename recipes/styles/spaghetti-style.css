@@ -1,7 +1,50 @@
-.red-color{
-    color: red;
+* {
+    background-color: darkslategray;
+    color: silver;
+    text-align: center;
+    max-width: 600px;
+    margin: auto;
+    line-height: 2;
+    position: relative;
 }
 
-.carrots {
-    color:orange;
+ul {
+    font-family:"Courier New", "Lucida Console", "Monaco";
+    text-align: left;
+}
+
+.orange {
+    color:darkorange;
+}
+
+.red {
+    color: darkred;
+}
+
+.olive {
+    color:olive;
+}
+
+.dry-green {
+    color: lightgreen;
+}
+
+.fresh-green {
+    color: green;
+}
+
+.yellow {
+    color: #ffff0f;
+}
+
+.gray {
+    color: gray;
+}
+
+.light-gray {
+    color: lightgray;
+}
+
+.beige {
+    color:beige;
 }
